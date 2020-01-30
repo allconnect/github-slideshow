@@ -1,6 +1,6 @@
----
-layout: slide
-title: "Welcome to our second slide!"
----
-Your text
-Use the left arrow to go back!
+------
+layout: slides
+title: "Welcome to our second slide! : github"
+------
+Your text here
+Use the left arrow to go back!.
